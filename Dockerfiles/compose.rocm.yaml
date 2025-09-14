@@ -8,7 +8,7 @@ services:
         - PYTHON_VERSION=3.11
         - USE_PIP_CACHE=true
         - GIT_BRANCH=mytest
-        - GIT_OWNER=HPPinata
+        - GIT_OWNER=Momi-V
     container_name: reGen
     tty: true
     environment:
